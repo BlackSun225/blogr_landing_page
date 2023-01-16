@@ -131,7 +131,7 @@ footer > div div {
     font-family: "Ubuntu", sans-serif;
   }
   nav.desk .business > div {
-    font-size: 0.75em;
+    font-size: 0.85em;
     padding-right: 2em;
     cursor: pointer;
     position: relative;
@@ -167,6 +167,7 @@ footer > div div {
   .profiled {
     display: flex;
     align-items: center;
+    font-size: 1.1em;
   }
   .profiled a.wb {
     margin-left: 1.5em;
